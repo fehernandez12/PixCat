@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct PixCatApp: App {
+    @NSApplicationDelegateAdaptor(PixCatDelegate.self) var pixCatDelegate
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        Settings {
+            EmptyView()
         }
     }
 }

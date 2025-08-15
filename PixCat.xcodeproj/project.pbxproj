@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A052CF662E4FE116003E120D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A052CF652E4FE110003E120D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A052CF432E4F07AD003E120D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		A052CF342E4F07AC003E120D /* PixCat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PixCat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A052CF422E4F07AD003E120D /* PixCatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PixCatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A052CF4C2E4F07AD003E120D /* PixCatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PixCatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A052CF652E4FE110003E120D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,11 +43,6 @@
 		A052CF452E4F07AD003E120D /* PixCatTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = PixCatTests;
-			sourceTree = "<group>";
-		};
-		A052CF4F2E4F07AD003E120D /* PixCatUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PixCatUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		A052CF2B2E4F07AC003E120D = {
 			isa = PBXGroup;
 			children = (
+				A052CF652E4FE110003E120D /* README.md */,
 				A052CF362E4F07AC003E120D /* PixCat */,
 				A052CF452E4F07AD003E120D /* PixCatTests */,
-				A052CF4F2E4F07AD003E120D /* PixCatUITests */,
 				A052CF352E4F07AC003E120D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -153,9 +153,6 @@
 			dependencies = (
 				A052CF4E2E4F07AD003E120D /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				A052CF4F2E4F07AD003E120D /* PixCatUITests */,
-			);
 			name = PixCatUITests;
 			packageProductDependencies = (
 			);
@@ -212,6 +209,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A052CF662E4FE116003E120D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,21 +1,25 @@
 {
   "images" : [
     {
+      "filename" : "cat_idle16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "cat_idle32.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "cat_idle32 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "cat_idle.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
