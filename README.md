@@ -7,7 +7,7 @@ PixCat was inspired by [this video](https://www.youtube.com/shorts/w-yXmw3iwng) 
 * Write unit tests (jk, it's perfect as it is)
 
 ## 💡 Giving Feedback
-If there are bugs or ideas, please create an [issue](https://github.com/fehernandez12/PixCat/issues/new/choose) so your idea doesn't go missing.
+If there are bugs or ideas, please create an [issue](https://github.com/fehernandez12/PixCat/issues/new/choose) so I can ignore it, unless it's something cool
 
 ## 🧑🏻‍💻 Contributing
 tf do you mean contributing, what even does this app need
