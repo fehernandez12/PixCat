@@ -1,11 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "cat_run1.png",
+      "filename" : "cat_run32.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "cat_run64.png",
       "idiom" : "universal",
       "scale" : "2x"
     },

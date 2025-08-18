@@ -1,11 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "cat_idle.png",
+      "filename" : "cat_idle32.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "cat_idle64.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
